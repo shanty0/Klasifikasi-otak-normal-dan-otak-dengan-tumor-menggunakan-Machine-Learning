@@ -47,6 +47,7 @@ Citra input dengan ukuran (224,224,3) dimasukan pada layer berikut :
 
 ## Result
 ![image](https://user-images.githubusercontent.com/110709194/183245257-d5560f58-b2cd-4ad5-99f4-6e4267125068.png)
+
 Training loss menunjukan kinerja model dalam menghasilkan prediksi pada label training data dengan benar (loss function over time). 
 Validation loss menunjukan kinerja model dalam menghasilkan prediksi pada label data baru/data yang tidak digunakan untuk training/validation data dengan benar (loss functoiion over time).
 Training accuracy mengkomparasi hasil prediksi model dengan label data training dalam persentase.
